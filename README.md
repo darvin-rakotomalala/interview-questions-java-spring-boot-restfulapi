@@ -26,9 +26,8 @@ Dans ce repo, je vous partage quelques articles/blog sur les questions d'entreti
 - [Java Coding Interview Questions](https://javatechonline.com/java-coding-interview-questions-java/)
 - [Spring Boot Interview Questions & Answers](https://javatechonline.com/spring-boot-interview-questions/)
 - [Microservices Interview Questions](https://javatechonline.com/microservices-interview-questions/)
-- [Interview Questions](https://www.java67.com/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
-- [Interview Questions](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html#axzz7s90A5Vww)
-- [Interview Questions](https://javarevisited.blogspot.com/2018/11/top-20-spring-mvc-interview-questions-answers-for-java-developers.html#axzz7s90A5Vww)
-- [Menu Interview](https://www.javaguides.net/p/spring-boot-tutorial.html)
+- [Les 40 principales réponses aux questions d'entrevue Core Java sur téléphonique](https://www.java67.com/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
+- [Top 20 des questions d'entretien Spring MVC avec réponses pour les développeurs Web Java](https://javarevisited.blogspot.com/2018/11/top-20-spring-mvc-interview-questions-answers-for-java-developers.html#axzz7s90A5Vww)
+- [Spring Boot Tutorial](https://www.javaguides.net/p/spring-boot-tutorial.html) - Dans le menu Interview
 
 *Bon apprentissage...*
